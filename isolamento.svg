@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420">
+<rect width="800" height="420" rx="28" fill="#F3F8FB"/>
+<path d="M120 330 V145 L400 70 L680 145 V330 Z" fill="#FFFFFF" stroke="#315B48" stroke-width="10"/>
+<path d="M340 330 V225 Q340 185 400 185 Q460 185 460 225 V330" fill="#E7F0EA" stroke="#315B48" stroke-width="9"/>
+<rect x="490" y="190" width="110" height="90" rx="12" fill="#DDEFE4" stroke="#315B48" stroke-width="8"/>
+<path d="M505 215 H585 M505 240 H570" stroke="#315B48" stroke-width="7" stroke-linecap="round"/>
+<path d="M205 225 C205 185 225 160 255 160 C285 160 305 185 300 225" fill="#FFFFFF" stroke="#315B48" stroke-width="8"/>
+<circle cx="235" cy="188" r="6" fill="#315B48"/><circle cx="270" cy="188" r="6" fill="#315B48"/>
+<text x="40" y="55" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#315B48">Ambiente organizado</text>
+</svg>

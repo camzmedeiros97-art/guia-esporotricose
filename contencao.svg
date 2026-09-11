@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420">
+<rect width="800" height="420" rx="28" fill="#F5F4FA"/>
+<path d="M120 285 Q300 135 510 250 Q610 300 690 250" fill="none" stroke="#C8B9E5" stroke-width="80" stroke-linecap="round"/>
+<path d="M205 270 C205 210 235 170 280 170 C325 170 350 210 342 270" fill="#FFFFFF" stroke="#315B48" stroke-width="10"/>
+<circle cx="255" cy="207" r="7" fill="#315B48"/><circle cx="300" cy="207" r="7" fill="#315B48"/>
+<path d="M268 229 Q278 239 288 229" fill="none" stroke="#315B48" stroke-width="6"/>
+<path d="M222 185 L200 150 L242 168 Z M330 185 L352 150 L310 168 Z" fill="#FFFFFF" stroke="#315B48" stroke-width="9"/>
+<text x="40" y="55" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#315B48">Contenção tranquila</text>
+</svg>

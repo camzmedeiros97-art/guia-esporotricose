@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420">
+<rect width="800" height="420" rx="28" fill="#F4F8F5"/>
+<circle cx="650" cy="105" r="70" fill="#DDEFE4"/>
+<path d="M110 285 C130 205 250 190 330 250 C375 284 420 286 472 258" fill="none" stroke="#315B48" stroke-width="14" stroke-linecap="round"/>
+<path d="M185 260 C175 205 205 165 248 166 C291 167 309 207 298 251" fill="#FFFFFF" stroke="#315B48" stroke-width="10"/>
+<circle cx="224" cy="203" r="7" fill="#315B48"/><circle cx="268" cy="203" r="7" fill="#315B48"/>
+<path d="M236 224 Q247 235 258 224" fill="none" stroke="#315B48" stroke-width="6"/>
+<path d="M150 184 L128 148 L171 168 Z M286 184 L310 148 L268 168 Z" fill="#FFFFFF" stroke="#315B48" stroke-width="9"/>
+<path d="M520 250 C515 205 535 170 575 155 C606 143 633 153 646 178 L660 205 L644 214 L631 190 C622 174 604 169 590 176 C570 186 560 204 560 230 L560 250 Z" fill="#FFFFFF" stroke="#315B48" stroke-width="9"/>
+<path d="M570 225 L615 225 L628 310 L556 310 Z" fill="#E8F0EA" stroke="#315B48" stroke-width="9"/>
+<text x="40" y="55" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#315B48">Proteção durante o manejo</text>
+</svg>

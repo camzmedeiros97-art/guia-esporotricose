@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420">
+<rect width="800" height="420" rx="28" fill="#FFF8F3"/>
+<path d="M130 280 C160 180 270 145 390 190 C470 220 520 265 650 245" fill="none" stroke="#315B48" stroke-width="16" stroke-linecap="round"/>
+<path d="M230 235 C225 180 250 145 292 145 C334 145 358 181 350 231" fill="#FFFFFF" stroke="#315B48" stroke-width="10"/>
+<circle cx="273" cy="181" r="7" fill="#315B48"/><circle cx="315" cy="181" r="7" fill="#315B48"/>
+<path d="M285 203 Q296 213 307 203" fill="none" stroke="#315B48" stroke-width="6"/>
+<circle cx="430" cy="242" r="35" fill="#F3B4A8" opacity=".85"/>
+<path d="M412 220 L448 264 M448 220 L412 264" stroke="#B84F42" stroke-width="8" stroke-linecap="round"/>
+<path d="M555 105 L690 105 L690 205 L555 205 Z" fill="#FFFFFF" stroke="#315B48" stroke-width="9"/>
+<path d="M570 125 H675 M570 150 H655 M570 175 H640" stroke="#A9C9B7" stroke-width="8" stroke-linecap="round"/>
+<text x="40" y="55" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#315B48">Cuidados com as lesões</text>
+</svg>
